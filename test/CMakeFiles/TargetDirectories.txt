@@ -1,0 +1,9 @@
+/home/rui/Desktop/CGAdjoint/test/CMakeFiles/test.dir
+/home/rui/Desktop/CGAdjoint/test/CMakeFiles/edit_cache.dir
+/home/rui/Desktop/CGAdjoint/test/CMakeFiles/rebuild_cache.dir
+/home/rui/Desktop/CGAdjoint/test/lib/Catch2/CMakeFiles/edit_cache.dir
+/home/rui/Desktop/CGAdjoint/test/lib/Catch2/CMakeFiles/rebuild_cache.dir
+/home/rui/Desktop/CGAdjoint/test/lib/Catch2/src/CMakeFiles/Catch2.dir
+/home/rui/Desktop/CGAdjoint/test/lib/Catch2/src/CMakeFiles/Catch2WithMain.dir
+/home/rui/Desktop/CGAdjoint/test/lib/Catch2/src/CMakeFiles/edit_cache.dir
+/home/rui/Desktop/CGAdjoint/test/lib/Catch2/src/CMakeFiles/rebuild_cache.dir
