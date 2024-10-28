@@ -1,0 +1,3 @@
+/home/rui/Desktop/CGAdjoint/CMakeFiles/executable.dir
+/home/rui/Desktop/CGAdjoint/CMakeFiles/edit_cache.dir
+/home/rui/Desktop/CGAdjoint/CMakeFiles/rebuild_cache.dir
